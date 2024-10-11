@@ -146,6 +146,17 @@ h6 {
   max-width: 18.25rem;
 }
 
+#faq-heading {
+  padding-top: 80px;
+  position: sticky;
+  top: 60px;
+  background-color: #fff;
+  padding-bottom: 5px;
+  font-size: 40px;
+  font-weight: bold;
+  color: #333;
+}
+
 .accordions__list {
   display: flex;
   flex-direction: column;
